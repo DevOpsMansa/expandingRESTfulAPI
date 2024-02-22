@@ -79,3 +79,8 @@ If code prevents the application from running, comment it out before submission.
 
 ## Author:
 Eric (Mansa) Marah - Per Sholas
+
+## Resources
+
+- [CodeSandbox — Docs](https://codesandbox.io/docs/projects)
+- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
